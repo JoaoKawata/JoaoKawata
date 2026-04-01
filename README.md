@@ -6,7 +6,9 @@
 
 <li>🎓 Estudante de ADS na Fatec-Taquaritinga.</li>
 
-<li>💻 Atualmente aprendendo e aprimorando minhas habilidades em C#.</li>
+<li>🎓 Estagiário de IA.</li>
+
+<li>💻 Atualmente aprendendo e aprimorando minhas habilidades em C# e Python.</li>
 
 <li>🌱 Estou buscando aplicar meus conhecimentos em uma vaga de estágio</li>
 
