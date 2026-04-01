@@ -4,17 +4,23 @@
 
 👩‍💻 Perfil
 
-<li>🎓 Estudante de ADS na Fatec-Taquaritinga, em fase final da graduação.</li>
-
-<li>🤖 Estagiário de IA na Mentes Notáveis.</li>
-
-<li>💻 Atualmente atuando em projetos com Python, LangChain, LangGraph, Flask, MongoDB, APIs, testes e revisão de código.</li>
-
-<li>🌱 Tenho grande interesse em desenvolvimento de software, IA generativa e automação, buscando evoluir cada vez mais na área.</li>
+<ul>
+  <li>🎓 Estudante de ADS na Fatec-Taquaritinga, em fase final da graduação.</li>
+  <li>🤖 Estagiário de IA na Mentes Notáveis.</li>
+  <li>💻 Atualmente atuando em projetos com Python, LangChain, LangGraph, Flask, MongoDB, APIs, testes e revisão de código.</li>
+  <li>🌱 Tenho grande interesse em desenvolvimento de software, IA generativa e automação, buscando evoluir cada vez mais na área.</li>
+</ul>
 
 <br>
 
-![JoaoKawata GitHub stats](https://github-readme-stats.vercel.app/api?username=JoaoKawata&show_icons=true&theme=dracula)
+## 📊 Estatísticas
+
+<div align="left">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoaoKawata&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoKawata&layout=compact&langs_count=6&theme=dracula" />
+</div>
+
+<br>
 
 ## ⌨️ Linguagens e Tecnologias
 <div style="display: inline_block"><br>
@@ -50,21 +56,17 @@
 
 <br>
 
-## 🔝 Linguagens mais usadas
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoKawata&layout=compact)
-
 ## ✉️ Contatos
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-kawata-75b181266/)
 
 ##
 
 <div align="center">
-    <table>
-        <tr>
-            <td>
-                <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">  
-            </td>  
-        </tr>
-    </table>
+  <table>
+    <tr>
+      <td>
+        <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">  
+      </td>  
+    </tr>
+  </table>
 </div>
