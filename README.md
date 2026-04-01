@@ -1,28 +1,24 @@
-# João Kawata 👋
+# Olá, eu sou o João Kawata 👋
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas** na Fatec Taquaritinga e atualmente atuo como **estagiário em IA**.
+🎓 Estudante de Análise e Desenvolvimento de Sistemas na Fatec Taquaritinga, em fase final da graduação.  
+🤖 Atualmente atuo como estagiário em IA, participando de projetos de modernização de sistemas com foco em inteligência artificial.  
+💻 Tenho experiência prática com Python, LangChain, LangGraph, Flask, MongoDB, APIs, testes, revisão de código e engenharia de prompt.  
+🚀 Tenho grande interesse em desenvolvimento de software, IA generativa e automação, buscando sempre evoluir tecnicamente e contribuir com soluções de impacto.
 
-Tenho experiência prática em projetos de **modernização tecnológica**, com atuação no desenvolvimento e atualização de soluções de análise com inteligência artificial, utilizando **Python, LangChain, LangGraph, Flask, MongoDB, APIs, testes, revisão de código e engenharia de prompt**.
+## 🛠️ Tecnologias e conhecimentos
 
-Tenho grande interesse em **desenvolvimento de software, IA generativa e automação**, buscando sempre construir soluções úteis, bem estruturadas e com impacto real.
+- **Linguagens:** Python, JavaScript, HTML, CSS, C#
+- **Frameworks e bibliotecas:** Flask, LangChain, LangGraph, Bootstrap
+- **Banco de dados:** MongoDB, MySQL
+- **Ferramentas:** Git, VS Code, Visual Studio
+- **Conhecimentos:** APIs, testes, revisão de código, engenharia de prompt, automação de processos, IA generativa
 
-## 🚀 Stack e conhecimentos
-
-- **Python**
-- **LangChain**
-- **LangGraph**
-- **Flask**
-- **MongoDB**
-- **APIs**
-- **Git**
-- **Testes**
-- **Code Review**
-- **Prompt Engineering**
-- **Generative AI**
-
-## 📈 Estatísticas
+## 📈 GitHub Stats
 
 ![JoaoKawata GitHub stats](https://github-readme-stats.vercel.app/api?username=JoaoKawata&show_icons=true&theme=dracula)
+
+## 🔝 Linguagens mais usadas
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoKawata&layout=compact)
 
 ## 🌐 Contato
