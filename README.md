@@ -6,7 +6,7 @@
 
 <ul>
   <li>🎓 Estudante de ADS na Fatec-Taquaritinga, em fase final da graduação.</li>
-  <li>🤖 Estagiário de IA na Mentes Notáveis.</li>
+  <li>🤖 Estagiário de Dados na Programmers.</li>
   <li>💻 Atualmente atuando em projetos com Python, LangChain, LangGraph, Flask, MongoDB, APIs, testes e revisão de código.</li>
   <li>🌱 Tenho grande interesse em desenvolvimento de software, IA generativa e automação, buscando evoluir cada vez mais na área.</li>
 </ul>
